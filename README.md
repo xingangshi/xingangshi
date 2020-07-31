@@ -1,8 +1,9 @@
 ### I'm here! 👋
 
 - 👯 I’m looking to collaborate on [geekpanshi org](https://github.com/geekpanshi),
-
-- 🔭 More about me is on my blog [GeekPanshi](https://www.geekpanshi.com/).
+- 🔭 More about me is on my blog [geekpanshi](https://www.geekpanshi.com/).
+- 💬 Connect with me by Wechat 
+> <img src="https://raw.githubusercontent.com/geekpanshi/panshirusi/master/%E9%85%8D%E5%9B%BE/README/001-%E7%A3%90%E7%9F%B3%E5%A6%82%E4%B8%9D%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.png" width="180" height="180" align=center></img>
 
 
 <!--
