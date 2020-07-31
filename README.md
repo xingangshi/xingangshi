@@ -1,4 +1,9 @@
-### Hi there 👋
+### I'm here! 👋
+
+- 👯 I’m looking to collaborate on [geekpanshi org](https://github.com/geekpanshi),
+
+- 🔭 More about me is on my blog [GeekPanshi](https://www.geekpanshi.com/).
+
 
 <!--
 **xingangshi/xingangshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
