@@ -1,4 +1,4 @@
-### I'm here! 👋
+### I'm Panshi! ⚡
 
 - 👯 I’m looking to collaborate on [geekpanshi org](https://github.com/geekpanshi).
 - 🔭 More about me is on my blog [geekpanshi](https://www.geekpanshi.com/).
