@@ -1,8 +1,8 @@
 ### I'm Panshi! ⚡
 
-History of status:
-- [x] Just for coding.
-- [ ] Coding is all my life.
+- 🤔 History of status:
+  - [x] Just for coding.
+  - [ ] Coding is all my life.
 
 - 👯 I’m looking to collaborate on [geekpanshi org](https://github.com/geekpanshi).
 - 🔭 More about me is on my blog [geekpanshi](https://www.geekpanshi.com/).
