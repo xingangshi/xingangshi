@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on [geekpanshi org](https://github.com/geekpanshi).
 - 💬 Connect with me by WeChat account of [iipanshi](https://raw.githubusercontent.com/geekpanshi/panshirusi/master/%E9%85%8D%E5%9B%BE/README/001-%E7%A3%90%E7%9F%B3%E9%81%93%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.png).
 
-![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=false&show_icons=true&theme=monokai&show_owner=true)
+![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)
 
 <!--
 - 🤔 History of status:
