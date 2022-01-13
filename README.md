@@ -8,10 +8,10 @@
 <!--
 - 👯 I’m looking to collaborate on [geekpanshi org](https://github.com/geekpanshi).
 - 🤔 History of status:
-  - [ ] 2022, I want to learn front-end Web skills.
+  - [x] 2022, master front-end technology.
   - [ ] Just for coding.
   - [ ] Coding is all my life.
-  - [x] For coding.
+  - [ ] For coding.
 
 - ⚡ About me
 >
