@@ -6,7 +6,7 @@
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xingangshi&theme=default&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&date_format=%5BY%20%5DM%20j"></p>
 
-![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)
+[![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)
  
 
 <!--
