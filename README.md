@@ -1,7 +1,8 @@
 ### I'm Panshi! ⚡
 
 - ❤️ I love coding, contributing and collaborating, [@twitter](http://twitter.com/geekpanshi).
-- 📫 More about me is on my blog: [geekpanshi](https://www.geekpanshi.com/panshi/), [dairyshare](https://www.geekpanshi.com/diaryshare).
+
+- 📫 More about me is on my blog: [geekpanshi](https://www.geekpanshi.com/panshi/), [dairyshare](https://www.geekpanshi.com/diaryshare), <a href="https://github-readme-streak-stats.herokuapp.com/?user=xingangshi&theme=default&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&date_format=%5BY%20%5DM%20j">github streak stats</a>.
 - 💬 Connect with me by WeChat account of [iipanshi](https://raw.githubusercontent.com/geekpanshi/panshirusi/master/%E9%85%8D%E5%9B%BE/README/001-%E7%A3%90%E7%9F%B3%E9%81%93%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.png).
 - 👯 Friends links [Fei](https://github.com/shixiongfei).
 
