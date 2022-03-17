@@ -1,6 +1,6 @@
 ### I'm Panshi! ⚡
 
-- 🌱 Friends links: [Fei](https://github.com/shixiongfei).
+- 🌱 Friends links: [shixiongfei](https://github.com/shixiongfei).
 - ❤️ I love coding, contributing and collaborating, [@twitter](http://twitter.com/geekpanshi), [@weibo](https://weibo.com/u/6726260941).
 - 📫 More about me is on my blog: [geekpanshi](https://www.geekpanshi.com/panshi/), [dairyshare](https://www.geekpanshi.com/diaryshare), [officialAccounts](https://raw.githubusercontent.com/xingangshi/xingangshi/master/pics/mp.png).
 - 💬 Connect with me by WeChat account of [iipanshi](https://raw.githubusercontent.com/xingangshi/xingangshi/master/pics/wechat.png).
@@ -11,8 +11,8 @@
 <!--
 - 👯 I’m looking to collaborate on [geekpanshi org](https://github.com/geekpanshi).
 - 🤔 History of status:
-  - [x] 2022, master front-end technology.
-  - [ ] Just for coding.
+  - [ ] 2022, master front-end technology.
+  - [x] Just for coding.
   - [ ] Coding is all my life.
   - [ ] For coding.
 
