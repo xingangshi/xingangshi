@@ -1,9 +1,9 @@
 ### I'm Panshi! ⚡
 
-- 🌱 Friends links: [shixiongfei](https://github.com/shixiongfei).
+- 🌱 Friends links: [shixiongfei](https://github.com/shixiongfei), [qysit](http://www.qysit.com/).
 - ❤️ I love coding, contributing and collaborating, [@twitter](http://twitter.com/geekpanshi), [@weibo](https://weibo.com/u/6726260941).
 - 📫 More about me is on my blog: [geekpanshi](https://www.geekpanshi.com/panshi/), [dairyshare](https://www.geekpanshi.com/diaryshare), [officialAccounts](https://raw.githubusercontent.com/xingangshi/xingangshi/master/pics/mp.png).
-- 💬 Connect with me by WeChat account of [iipanshi](https://raw.githubusercontent.com/xingangshi/xingangshi/master/pics/wechat.png).
+- 💬 Connect with me by WeChat account of [bqunbq](https://raw.githubusercontent.com/xingangshi/xingangshi/master/pics/wechat.png).
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=xingangshi&theme=default&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&date_format=%5BY%20%5DM%20j"><p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xingangshi&theme=default&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&date_format=%5BY%20%5DM%20j"></p></a>
 [![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)
@@ -21,7 +21,6 @@
 > ![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&show_icons=true&theme=cobalt)
 >
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingangshi&layout=compact)
-
 
 **xingangshi/xingangshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
