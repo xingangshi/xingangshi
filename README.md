@@ -8,6 +8,16 @@
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=xingangshi&theme=default&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&date_format=%5BY%20%5DM%20j"><p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xingangshi&theme=default&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&date_format=%5BY%20%5DM%20j"></p></a>
 [![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)
 
+<!--START_SECTION:my_kindle-->
+#### I have read 2 books this year
+
+| ID | Title | Authors | Date | 
+| ---- | ---- | ---- | ---- |
+| 1 | [平凡的世界](https://www.amazon.cn/dp/B071SDP8PC) | 路遥 | 2022-05-10 |
+| 2 | [程序员修炼之道：通向务实的最高境界](https://www.amazon.cn/dp/B08BRGF8SL) | Andrew  Hunt(安德鲁·亨特) (美)David Thomas(大卫·托马斯) | 2022-04-10 |
+
+<!--END_SECTION:my_kindle-->
+
 <!--
 - 👯 I’m looking to collaborate on [geekpanshi org](https://github.com/geekpanshi).
 - 🤔 History of status:
