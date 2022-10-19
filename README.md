@@ -18,6 +18,7 @@
 | 3  | [搞定Ⅰ 无压工作的艺术](https://item.jd.com/11916193.html)              | [美] 戴维·艾伦（David Allen） 著，张静 译               | 2022-06-23 |
 | 4  | [万箭穿心](https://item.jd.com/10048922824730.html)                     | 方方 著                                                 | 2022-08-30 |
 | 5  | [生死疲劳](https://item.jd.com/10042691540565.html)                     | 莫言 著                                                 | 2022-09-21 |
+| 6  | [晚熟的人](https://item.jd.com/72069132883.html)                        | 莫言 著                                                 | 2022-10-13 |
 
 <!--END_SECTION:my_kindle-->
 
