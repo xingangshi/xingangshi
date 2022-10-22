@@ -9,7 +9,7 @@
 [![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)
 
 <!--START_SECTION:my_kindle-->
-#### I have read 5 books this year
+#### I have read 7 books this year
 
 | ID | Title                                                                   | Authors                                                 | Date       |
 | ---| ----------------------------------------------------------------------- | ------------------------------------------------------- | ---------- |
@@ -19,6 +19,7 @@
 | 4  | [万箭穿心](https://item.jd.com/10048922824730.html)                     | 方方 著                                                 | 2022-08-30 |
 | 5  | [生死疲劳](https://item.jd.com/10042691540565.html)                     | 莫言 著                                                 | 2022-09-21 |
 | 6  | [晚熟的人](https://item.jd.com/72069132883.html)                        | 莫言 著                                                 | 2022-10-13 |
+| 7  | [兄弟](https://item.jd.com/10029061036681.html)                         | 余华 著                                                 | 2022-10-21 |
 
 <!--END_SECTION:my_kindle-->
 
