@@ -9,13 +9,11 @@
 [![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)
 
 <!--START_SECTION:my_kindle-->
-#### I have read 0 books this year of 2023
+#### I have read 1 books this year of 2023
 
-<!--
-| ID | Title                                                                   | Authors                                                 | Date       |
-| ---| ----------------------------------------------------------------------- | ------------------------------------------------------- | ---------- |
-| 1  | [程序员修炼之道：通向务实的最高境界](https://item.jd.com/12828404.html) | Andrew Hunt(安德鲁·亨特) (美)David Thomas(大卫·托马斯)  | 2022-04-10 |
--->
+| ID | Title                                                                | Authors                                                 | Date       |
+| ---| -------------------------------------------------------------------- | ------------------------------------------------------- | ---------- |
+| 1  | [纳瓦尔宝典 财富与幸福指南](https://item.jd.com/10050411265267.html) | [美] 埃里克·乔根森 著                                   | 2023-01-02 |
 
 <!--END_SECTION:my_kindle-->
 
