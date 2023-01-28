@@ -9,13 +9,24 @@
 [![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)
 
 <!--START_SECTION:my_kindle-->
-#### I have read 1 books this year of 2023
+#### Reade 2 books this year of 2023
 
-| ID | Title                                                                | Authors                                                 | Date       |
-| ---| -------------------------------------------------------------------- | ------------------------------------------------------- | ---------- |
-| 1  | [纳瓦尔宝典 财富与幸福指南](https://item.jd.com/10050411265267.html) | [美] 埃里克·乔根森 著                                   | 2023-01-02 |
+| ID | Title                                                                                 | Authors                                                 | Date       |
+| ---| ------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------- |
+| 1  | [纳瓦尔宝典 财富与幸福指南](https://item.jd.com/10050411265267.html)                  | [美] 埃里克·乔根森 著                                   | 2023-01-02 |
+| 2  | [软瘾：终结那些窃取你时间、夺走你生活的强迫性习惯](https://item.jd.com/13228389.html) | [美] 朱迪斯·莱特（Judith Wright） 著，董黛 译           | 2023-01-27 |
 
 <!--END_SECTION:my_kindle-->
+
+
+<!--
+#### Published 4 official account articles
+
+1. 2023-01-05 [新年快乐/我与苟机器的二三事（2）](https://mp.weixin.qq.com/s/hyizq_G2PPwHBQ6k7X9m6w)
+2. 2023-01-10 [图解生活 —— 遛狗还是被狗遛？](https://mp.weixin.qq.com/s/3XQ_Wb58MVzAF_lsbEI9nQ)
+3. 2023-01-17 [寄语 2023，勤勉守正](https://mp.weixin.qq.com/s/BVD83Im75pqA4BeU8YuJyg)
+4. 2023-01-27 [三加一快读 —— 软瘾](https://mp.weixin.qq.com/s/O0pIrVRA9RQcwMoKnwnt4w)
+-->
 
 <!--
 - 👯 I’m looking to collaborate on [geekpanshi org](https://github.com/geekpanshi).
