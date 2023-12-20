@@ -6,7 +6,10 @@
 - 💬 Connect with me by WeChat account of [iipanshi](https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/images/about/panshidushuhui.png).
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=xingangshi&theme=default&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&date_format=%5BY%20%5DM%20j"><p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xingangshi&theme=default&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&date_format=%5BY%20%5DM%20j"></p></a>
+
+<!--
 [![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)
+-->
 
 <!--START_SECTION:my_kindle-->
 #### Reade 2 books this year of 2023
