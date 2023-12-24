@@ -2,14 +2,12 @@
 
 - 🌱 Friends links: [shixiongfei](https://github.com/shixiongfei), [qysit](http://www.qysit.com/).
 - ❤️ I love coding, contributing and collaborating, [twitter](http://twitter.com/geekpanshi), [weibo](https://weibo.com/u/6726260941).
-- 📫 More about me is on my blog: [panshi](https://www.geekpanshi.com/panshi/), [diary](https://www.sxgic.com/diary/), [OA](https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/sxgic/mp.png), [oldBlog](https://www.geekpanshi.com).
+- 📫 More about me is on my blog: [panshi](https://www.geekpanshi.com/panshi/), [diary](https://www.shixingang.com/diary/), [OA](https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/sxgic/mp.png).
 - 💬 Connect with me by WeChat account of [iipanshi](https://nas.qysit.com:2046/geekpanshi/panshi_imgs/-/raw/main/images/about/panshidushuhui.png).
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=xingangshi&theme=default&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&date_format=%5BY%20%5DM%20j"><p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xingangshi&theme=default&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&date_format=%5BY%20%5DM%20j"></p></a>
 
-<!--
 [![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)
--->
 
 <!--START_SECTION:my_kindle-->
 #### Reade 3 books this year of 2023
