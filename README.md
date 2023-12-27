@@ -7,16 +7,18 @@
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=xingangshi&theme=default&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&date_format=%5BY%20%5DM%20j"><p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xingangshi&theme=default&ring=FFB19A&hide_border=false&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085&date_format=%5BY%20%5DM%20j"></p></a>
 
+<!--
 [![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)](https://github-readme-stats.vercel.app/api?username=xingangshi&count_private=true&show_icons=true&theme=default&show_owner=true)
+-->
 
 <!--START_SECTION:my_kindle-->
 #### Reade 3 books this year of 2023
 
-| ID | Title                                                                                  | Authors                                          | Date       |
-| ---| -------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------- |
-| 1  | [纳瓦尔宝典 财富与幸福指南](https://item.jd.com/10050411265267.html)                   | [美] 埃里克·乔根森 著                            | 2023-01-02 |
-| 2  | [软瘾：终结那些窃取你时间、夺走你生活的强迫性习惯](https://item.jd.com/13228389.html)  | [美] 朱迪斯·莱特 著，董黛 译                     | 2023-01-27 |
-| 3  | [为什么伟大不能被计划 对创意、创新和创造自由的探索](https://item.jd.com/13711981.html) | [美] 肯尼斯·斯坦利，[美] 乔尔·雷曼 著，彭相珍 译 | 2023-12-21 |
+| ID | Title                                                                                  | Authors                                     | Date       |
+| ---| -------------------------------------------------------------------------------------- | ------------------------------------------- | ---------- |
+| 1  | [纳瓦尔宝典 财富与幸福指南](https://item.jd.com/10050411265267.html)                   | [美] 埃里克·乔根森 著                       | 2023-01-02 |
+| 2  | [软瘾：终结那些窃取你时间、夺走你生活的强迫性习惯](https://item.jd.com/13228389.html)  | [美] 朱迪斯·莱特 著，董黛 译                | 2023-01-27 |
+| 3  | [为什么伟大不能被计划 对创意、创新和创造自由的探索](https://item.jd.com/13711981.html) | [美] 肯尼斯·斯坦利、乔尔·雷曼 著，彭相珍 译 | 2023-12-21 |
 
 <!--END_SECTION:my_kindle-->
 
