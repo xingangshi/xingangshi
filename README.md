@@ -35,8 +35,8 @@
   - [ ] 2022, master front-end technology.
   - [ ] Just for coding.
   - [ ] Coding is all my life.
-  - [x] For coding.
-
+  - [ ] For coding.
+  - [x] New start.
 - ⚡ About me
 >
 > ![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&show_icons=true&theme=cobalt)
