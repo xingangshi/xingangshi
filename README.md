@@ -38,6 +38,8 @@
   - [ ] For coding.
   - [x] New start.
 - ⚡ About me
+
+2024 年 5 月 1 回西安，5 月 5 日回上海。
 >
 > ![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&show_icons=true&theme=cobalt)
 >
