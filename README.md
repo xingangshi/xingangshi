@@ -18,6 +18,7 @@
 | ---| ---------------------------------------------------------------------------- | --------------------------------- | ---------- |
 | 1  | [原生家庭：如何修补自己的性格缺陷](https://item.jd.com/10067626211296.html)  | [美] 苏珊·福沃德 著，黄姝 王婷 译 | 2024-01-28 |
 | 2  | [最优解人生: 如何花钱，才能无憾](https://item.jd.com/13829434.html)          | [美] 比尔·帕金斯 著               | 2024-05-12 |
+| 3  | [非暴力沟通](https://item.jd.com/14188074632.html)                           | [美] 马歇尔.卢森堡 著，刘轶 译    | 2024-05-19 |
 
 <!--END_SECTION:my_kindle-->
 
@@ -37,10 +38,10 @@
   - [ ] Just for coding.
   - [ ] Coding is all my life.
   - [ ] For coding.
-  - [x] New start. 2024-05-06
+  - [x] New start. 2024-05-06.
 - ⚡ About me
 
-2024 年 5 月 1 回西安，5 月 5 日回上海。
+2024 年 5 月 1 回西安，2、3、4、5 在老家和西安，5 月 5 日回上海。
 >
 > ![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&show_icons=true&theme=cobalt)
 >
