@@ -12,7 +12,7 @@
 -->
 
 <!--START_SECTION:my_kindle-->
-#### Reade 1 books this year of 2024
+#### Reade 5 books this year of 2024
 
 | ID   | Title                                                                        | Authors                           | Date       |
 | ---- | ---------------------------------------------------------------------------- | --------------------------------- | ---------- |
@@ -43,7 +43,6 @@
   - [x] New start. 2024-05-06.
 - ⚡ About me
 
-2024 年 5 月 1 回西安，2、3、4、5 在老家和西安，5 月 5 日回上海。
 >
 > ![Panshi's github stats](https://github-readme-stats.vercel.app/api?username=xingangshi&show_icons=true&theme=cobalt)
 >
