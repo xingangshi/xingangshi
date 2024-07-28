@@ -14,14 +14,15 @@
 <!--START_SECTION:my_kindle-->
 #### Reade 6 books this year of 2024
 
-| ID   | Title                                                                        | Douban's Data                                     | Date       |
-| ---- | ---------------------------------------------------------------------------- | ------------------------------------------------- | ---------- |
-| 1    | [原生家庭：如何修补自己的性格缺陷](https://item.jd.com/10067626211296.html)  | [豆瓣](https://book.douban.com/subject/30199434/) | 2024-01-28 |
-| 2    | [最优解人生: 如何花钱，才能无憾](https://item.jd.com/13829434.html)          | [豆瓣](https://book.douban.com/subject/36242339/) | 2024-05-12 |
-| 3    | [非暴力沟通](https://item.jd.com/14188074632.html)                           | [豆瓣](https://book.douban.com/subject/3533221/)  | 2024-05-19 |
-| 4    | [为何家会伤人](https://item.jd.com/10095469765488.html)                      | [豆瓣](https://book.douban.com/subject/30359352/) | 2024-05-23 |
-| 5    | [菊与刀：日本文化的类型](https://item.jd.com/12376304.html)                  | [豆瓣](https://book.douban.com/subject/1022238/)  | 2024-06-09 |
-| 6    | [终身成长：重新定义成功的思维模式](https://item.jd.com/12198327.html)        | [豆瓣](https://book.douban.com/subject/27154533/) | 2024-07-02 |
+| ID   | Title                                                                        | Douban's Data                                         | Date       |
+| ---- | ---------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- |
+| 1    | [原生家庭：如何修补自己的性格缺陷](https://item.jd.com/10067626211296.html)  | [豆瓣书评](https://book.douban.com/subject/30199434/) | 2024-01-28 |
+| 2    | [最优解人生：如何花钱，才能无憾](https://item.jd.com/13829434.html)          | [豆瓣书评](https://book.douban.com/subject/36242339/) | 2024-05-12 |
+| 3    | [非暴力沟通](https://item.jd.com/14188074632.html)                           | [豆瓣书评](https://book.douban.com/subject/3533221/)  | 2024-05-19 |
+| 4    | [为何家会伤人](https://item.jd.com/10095469765488.html)                      | [豆瓣书评](https://book.douban.com/subject/30359352/) | 2024-05-23 |
+| 5    | [菊与刀：日本文化的类型](https://item.jd.com/12376304.html)                  | [豆瓣书评](https://book.douban.com/subject/1022238/)  | 2024-06-09 |
+| 6    | [终身成长：重新定义成功的思维模式](https://item.jd.com/12198327.html)        | [豆瓣书评](https://book.douban.com/subject/27154533/) | 2024-07-02 |
+| 7    | [活出生命的意义](https://item.jd.com/10039930252193.html)                    | [豆瓣书评](https://book.douban.com/subject/5330333/)  | 2024-07-28 |
 
 <!--END_SECTION:my_kindle-->
 
