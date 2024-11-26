@@ -13,7 +13,7 @@
 -->
 
 <!--START_SECTION:my_kindle-->
-#### Reade 7 books this year of 2024
+#### Reade 8 books this year of 2024
 
 | ID   | Title                                                                        | Douban's Data                                         | Date       |
 | ---- | ---------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- |
@@ -24,6 +24,7 @@
 | 5    | [菊与刀：日本文化的类型](https://item.jd.com/12376304.html)                  | [豆瓣书评](https://book.douban.com/subject/1022238/)  | 2024-06-09 |
 | 6    | [终身成长：重新定义成功的思维模式](https://item.jd.com/12198327.html)        | [豆瓣书评](https://book.douban.com/subject/27154533/) | 2024-07-02 |
 | 7    | [活出生命的意义](https://item.jd.com/10039930252193.html)                    | [豆瓣书评](https://book.douban.com/subject/5330333/)  | 2024-07-28 |
+| 8    | [人为什么会生病](https://item.jd.com/13717458.html)                          | [豆瓣书评](https://book.douban.com/subject/35858210/) | 2024-11-26 |
 
 <!--END_SECTION:my_kindle-->
 
