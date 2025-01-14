@@ -13,13 +13,13 @@
 -->
 
 <!--START_SECTION:my_kindle-->
-#### I have read 0 books this year of 2022
+#### I have read 1 books this year of 2025
 
 [History books list](/1-life-records.md)
 
 | ID   | Title                                                                        | Douban's Data                                         | Date       |
 | ---- | ---------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- |
-| 0    | [津巴多普通心理学 (第 8 版)](https://item.jd.com/13752206.html)              | [豆瓣书评](https://book.douban.com/subject/35897952/) | 2024-12-27 |
+| 0    | [我在 100 天内自学英文翻转人生](https://item.jd.com/10072053546789.html)     | [豆瓣书评](https://book.douban.com/subject/34913119/) | 2024-01-14 |
 
 <!--END_SECTION:my_kindle-->
 
