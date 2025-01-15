@@ -41,3 +41,11 @@
 | 7    | [活出生命的意义](https://item.jd.com/10039930252193.html)                    | [豆瓣书评](https://book.douban.com/subject/5330333/)  | 2024-07-28 |
 | 8    | [人为什么会生病](https://item.jd.com/13717458.html)                          | [豆瓣书评](https://book.douban.com/subject/35858210/) | 2024-11-26 |
 | 9    | [津巴多普通心理学 (第 8 版)](https://item.jd.com/13752206.html)              | [豆瓣书评](https://book.douban.com/subject/35897952/) | 2024-12-27 |
+
+## 2025 records
+
+### I have read 1 books this year of 2025
+
+| ID   | Title                                                                        | Douban's Data                                         | Date       |
+| ---- | ---------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- |
+| 1    | [我在 100 天内自学英文翻转人生](https://item.jd.com/10072053546789.html)     | [豆瓣书评](https://book.douban.com/subject/34913119/) | 2025-01-14 |
