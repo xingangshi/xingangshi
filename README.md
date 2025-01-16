@@ -13,13 +13,14 @@
 -->
 
 <!--START_SECTION:my_kindle-->
-#### I have read 1 books this year of 2025
+#### I have read 2 books this year of 2025
 
 [History books list](/1-life-records.md)
 
 | ID   | Title                                                                        | Douban's Data                                         | Date       |
 | ---- | ---------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- |
 | 1    | [我在 100 天内自学英文翻转人生](https://item.jd.com/10072053546789.html)     | [豆瓣书评](https://book.douban.com/subject/34913119/) | 2025-01-14 |
+| 2    | [运动改造大脑](https://item.jd.com/10078240739675.html)                      | [豆瓣书评](https://book.douban.com/subject/25755874/) | 2025-01-16 |
 
 <!--END_SECTION:my_kindle-->
 
@@ -39,7 +40,8 @@
   - [ ] Just for coding.
   - [ ] Coding is all my life.
   - [ ] For coding.
-  - [x] New start. 2024-05-06.
+  - [ ] New start. 2024-05-06.
+  - [x] For coding, for life.
 - ⚡ About me
 
 >
