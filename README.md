@@ -13,7 +13,7 @@
 -->
 
 <!--START_SECTION:my_kindle-->
-#### I have read 2 books this year of 2025
+#### I have read 3 books this year of 2025
 
 [History books list](/1-life-records.md)
 
@@ -21,6 +21,7 @@
 | ---- | ---------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- |
 | 1    | [我在 100 天内自学英文翻转人生](https://item.jd.com/10072053546789.html)     | [豆瓣书评](https://book.douban.com/subject/34913119/) | 2025-01-14 |
 | 2    | [运动改造大脑](https://item.jd.com/10078240739675.html)                      | [豆瓣书评](https://book.douban.com/subject/25755874/) | 2025-01-16 |
+| 3    | [最小阻力之路](https://item.jd.com/10067623462469.html)                      | [豆瓣书评](https://book.douban.com/subject/26866955/) | 2025-01-21 |
 
 <!--END_SECTION:my_kindle-->
 
