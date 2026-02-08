@@ -13,18 +13,13 @@
 -->
 
 <!--START_SECTION:my_kindle-->
-#### I have read 6 books this year of 2025
+#### I have read 0 books this year of 2026
 
 [History books list](/1-life-records.md)
 
 | ID   | Title                                                                        | Douban's Data                                         | Date       |
 | ---- | ---------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- |
-| 1    | [我在 100 天内自学英文翻转人生](https://item.jd.com/10072053546789.html)     | [豆瓣书评](https://book.douban.com/subject/34913119/) | 2025-01-14 |
-| 2    | [运动改造大脑](https://item.jd.com/10078240739675.html)                      | [豆瓣书评](https://book.douban.com/subject/25755874/) | 2025-01-16 |
-| 3    | [最小阻力之路](https://item.jd.com/10067623462469.html)                      | [豆瓣书评](https://book.douban.com/subject/26866955/) | 2025-01-21 |
-| 4    | [奇特的一生](https://item.jd.com/14303798.html)                              | [豆瓣书评](https://book.douban.com/subject/2212128/)  | 2025-02-19 |
-| 5    | [真想让我爱的人读读这本书](https://item.jd.com/10098276738531.html)          | [豆瓣书评](https://book.douban.com/subject/36811501/) | 2025-03-30 |
-| 6    | [最好的告别](https://item.jd.com/10078240497769.html)                        | [豆瓣书评](https://book.douban.com/subject/26576861/) | 2025-04-17 |
+| 1    | /                                                                            | /                                                     | 2026-02-08 |
 
 <!--END_SECTION:my_kindle-->
 
